@@ -1,0 +1,6 @@
+{
+  "name": "HomeCare Pro — Home Services Booking App",
+  "description": "Home Services Booking Platform with Customer Booking, Admin Task Assignment, and Server Portal powered by Local Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
